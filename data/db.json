@@ -1,0 +1,29 @@
+{
+  "ids": {
+    "Todo": 5,
+    "User": 10,
+    "UserCredentials": 6
+  },
+  "models": {
+    "Todo": {
+      "1": "{\"title\":\"Take over the galaxy\",\"desc\":\"MWAHAHAHAHAHAHAHAHAHAHAHAHAMWAHAHAHAHAHAHAHAHAHAHAHAHA\",\"id\":1}",
+      "2": "{\"title\":\"destroy alderaan\",\"desc\":\"Make sure there are no survivors left!\",\"id\":2}",
+      "3": "{\"title\":\"play space invaders\",\"desc\":\"Become the very best!\",\"id\":3}",
+      "4": "{\"title\":\"crush rebel scum\",\"desc\":\"Every.Last.One.\",\"id\":4}"
+    },
+    "User": {
+      "1": "{\"id\":\"1\",\"realm\":\"string\",\"username\":\"string\",\"email\":\"string@gmail.com\",\"emailVerified\":true,\"verificationToken\":\"string\",\"additionalProp1\":{}}",
+      "2": "{\"id\":\"2\",\"realm\":\"string\",\"username\":\"string\",\"email\":\"string@gmail.com\",\"emailVerified\":true,\"verificationToken\":\"string\",\"additionalProp1\":{}}",
+      "3": "{\"id\":\"3\",\"realm\":\"string\",\"username\":\"string\",\"email\":\"string1@gmail.com\",\"emailVerified\":true,\"verificationToken\":\"string\",\"additionalProp1\":{}}",
+      "4": "{\"username\":\"testuser1\",\"email\":\"testuser1@abc.com\",\"id\":4}",
+      "string": "{\"id\":\"string\",\"realm\":\"string\",\"username\":\"string\",\"email\":\"string\",\"emailVerified\":true,\"verificationToken\":\"string\",\"additionalProp1\":{}}"
+    },
+    "UserCredentials": {
+      "1": "{\"password\":\"$2a$10$QrcA7GDOZ06TTXEBhuz87On8mcapb9qoU3rjWb7Z5pwBv7ZAbmXwa\",\"userId\":4,\"id\":1}",
+      "9a014818-92cf-4194-971c-8efce103afa0": "{\"id\":\"9a014818-92cf-4194-971c-8efce103afa0\",\"password\":\"$2a$10$yYpeakTkibMJmecPL/ZpguoKLx6TCqzdO5nQGhvEsvMwepJ5EC4sm\",\"userId\":\"string\"}",
+      "c9d98265-b91b-469e-a7dd-e880e8f6c131": "{\"id\":\"c9d98265-b91b-469e-a7dd-e880e8f6c131\",\"password\":\"$2a$10$ES2RpM8UAeZFw5w6lL6SXuFqpW3hlc.aUQ8TLpuwEjinFGfuUkVyi\",\"userId\":\"1\"}",
+      "ffd0c845-fced-476c-911e-73907002de1a": "{\"id\":\"ffd0c845-fced-476c-911e-73907002de1a\",\"password\":\"$2a$10$G/5a2bO3oVtoaxyEazcfX.LwcJomLcxb5wIrIhrwPObr.X9GS9p66\",\"userId\":\"2\"}",
+      "6a4e213d-38f4-4155-b19c-4a89a0c02c32": "{\"id\":\"6a4e213d-38f4-4155-b19c-4a89a0c02c32\",\"password\":\"$2a$10$U7/LK.M63c61zxj87Zn.aun42aju3QzvQj2DqjMYf0hyOw32bkasi\",\"userId\":\"3\"}"
+    }
+  }
+}
